@@ -1,1 +1,9 @@
 *{margin: 0; padding: 0;}
+
+.header{
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../img/bg.jpg');
+    background-size: 60%;
+    background-position: center top;
+}
